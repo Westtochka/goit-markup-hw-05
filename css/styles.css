@@ -841,24 +841,20 @@ height: 40px;
     width: 24px;
     height: 24px; 
     border-radius: 50%;
-    display: block;
-    margin-left: auto;
-
-}
-
-.modal-close-link{
-    /* width: 24px;
-    height: 24px; */
-}
-
-.modal-close-icon{
-    /* border-radius: 50%; */
-    /* display: flex;
-    align-items: center;
+    display: flex;
     justify-content: center;
-
+    align-items: center;
+    margin-left: auto;
     background-color: #E7E9FC;
-    border: 1px solid rgba(0, 0, 0, 0.1); */
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* .modal-close-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
     
 
-}
+} */
